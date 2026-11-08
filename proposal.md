@@ -8,29 +8,30 @@ A visual map in which the person in able to move in countries around the globe a
 
 ## Features
 - Feature 1
-	- Short explaination of how it will be executed.
+	- A cursor that is able to be controlled with the Up, Down, Left, and right arrow keys for the player to be able to run around the map.
 - Feature 2
-	- Short explaination of how it will be executed.
+	- Apon hitting a key (Enter or T) the time and date of the place will be displayed as well as a comparison of the time that was entered
 - Feature N 
-	- Short explaination of how it will be executed.
+	- Will also have a menu that displays all of timezones together.
 
 ## Challenges
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
+- Firstly, is having keys having different functions within the code, since the assignments mainly relied on the "ENTER" key for the function to run.
+- Having things be displayed in a way that are able ti
 - Short sentence of any skill or topic that needs to be learnt or researched.
 
 ## Outcomes
 Ideal Outcome:
-- Briefly describe what is the ideal outcome?
+- Idealy I would want the time to change with how long the program is going.
+- Another outcome would be displaying the dates of the timezone inorder for the time to be as accurate as possible. 
 
 Minimal Viable Outcome:
-- Briefly describe the bare essential for a good working outcome?
+- Bare essential is to show the time of different countries with a cursor that is controlled by the Up, Down, Left, and right arrow keys.
 
 ## Milestones
 
 - Week 1
-  1. Goal 1
-  2. Goal 2
+  1. Create the visual of the background of the globe.
+  2. Plot out the timezones and where they are on the map inorder to start.
 
 - Week 2
   1. Goal 1
