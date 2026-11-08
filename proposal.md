@@ -34,9 +34,9 @@ Minimal Viable Outcome:
   2. Plot out the timezones and where they are on the map inorder to start.
 
 - Week 2
-  1. Goal 1
-  2. Goal 2
+  1. Inplementing the Up, Down, Left, and right arrow keys working and the timezones displaying.
+  2. Having all of the calculations of the timezones.
 
 - Week N (Final)
-  1. Goal 1
-  2. Goal 2
+  1. Adding  menu that displays all of timezones together.
+  2. Adjusting/ cleaning code for the best outcome.
